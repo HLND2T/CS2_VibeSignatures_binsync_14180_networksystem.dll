@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:15:29.834297Z
+addr = 0xb9880
+size = 0x4a1
+name = "sub_1800BA880"
+
+[header]
+name = "sub_1800BA880"
+addr = 0xb9880
+
+[header.args]

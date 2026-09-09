@@ -1,0 +1,272 @@
+[0xbae7a]
+last_change = 2026-09-09T16:15:30.778047Z
+addr = 0xbae7a
+func_addr = 0xb9ff0
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0xd53ad]
+last_change = 2026-09-09T16:15:30.789862Z
+addr = 0xd53ad
+func_addr = 0xd5390
+comment = "SRWLock"
+decompiled = false
+
+[0xd53dc]
+last_change = 2026-09-09T16:15:30.789883Z
+addr = 0xd53dc
+func_addr = 0xd5390
+comment = "SRWLock"
+decompiled = false
+
+[0xd6088]
+last_change = 2026-09-09T16:15:30.810526Z
+addr = 0xd6088
+func_addr = 0xd6020
+comment = "SRWLock"
+decompiled = false
+
+[0xd60a5]
+last_change = 2026-09-09T16:15:30.810544Z
+addr = 0xd60a5
+func_addr = 0xd6020
+comment = "SRWLock"
+decompiled = false
+
+[0xd60ca]
+last_change = 2026-09-09T16:15:30.810549Z
+addr = 0xd60ca
+func_addr = 0xd6020
+comment = "SRWLock"
+decompiled = false
+
+[0xd60ea]
+last_change = 2026-09-09T16:15:30.810554Z
+addr = 0xd60ea
+func_addr = 0xd6020
+comment = "SRWLock"
+decompiled = false
+
+[0xd7085]
+last_change = 2026-09-09T16:15:30.814578Z
+addr = 0xd7085
+func_addr = 0xd7060
+comment = "SRWLock"
+decompiled = false
+
+[0xd70af]
+last_change = 2026-09-09T16:15:30.814589Z
+addr = 0xd70af
+func_addr = 0xd7060
+comment = "SRWLock"
+decompiled = false
+
+[0xd70cb]
+last_change = 2026-09-09T16:15:30.814594Z
+addr = 0xd70cb
+func_addr = 0xd7060
+comment = "SRWLock"
+decompiled = false
+
+[0xd70fe]
+last_change = 2026-09-09T16:15:30.814598Z
+addr = 0xd70fe
+func_addr = 0xd7060
+comment = "SRWLock"
+decompiled = false
+
+[0xd7213]
+last_change = 2026-09-09T16:15:30.814603Z
+addr = 0xd7213
+func_addr = 0xd7060
+comment = "SRWLock"
+decompiled = false
+
+[0xd73e5]
+last_change = 2026-09-09T16:15:30.818505Z
+addr = 0xd73e5
+func_addr = 0xd73c0
+comment = "SRWLock"
+decompiled = false
+
+[0xd740f]
+last_change = 2026-09-09T16:15:30.818516Z
+addr = 0xd740f
+func_addr = 0xd73c0
+comment = "SRWLock"
+decompiled = false
+
+[0xd742b]
+last_change = 2026-09-09T16:15:30.818520Z
+addr = 0xd742b
+func_addr = 0xd73c0
+comment = "SRWLock"
+decompiled = false
+
+[0xd745e]
+last_change = 2026-09-09T16:15:30.818524Z
+addr = 0xd745e
+func_addr = 0xd73c0
+comment = "SRWLock"
+decompiled = false
+
+[0xd7539]
+last_change = 2026-09-09T16:15:30.818528Z
+addr = 0xd7539
+func_addr = 0xd73c0
+comment = "SRWLock"
+decompiled = false
+
+[0xd78e2]
+last_change = 2026-09-09T16:15:30.822477Z
+addr = 0xd78e2
+func_addr = 0xd76f0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xd7b33]
+last_change = 2026-09-09T16:15:30.826421Z
+addr = 0xd7b33
+func_addr = 0xd79b0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xd7b73]
+last_change = 2026-09-09T16:15:30.826434Z
+addr = 0xd7b73
+func_addr = 0xd79b0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xd80a2]
+last_change = 2026-09-09T16:15:30.830432Z
+addr = 0xd80a2
+func_addr = 0xd7fb0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xd902f]
+last_change = 2026-09-09T16:15:30.859438Z
+addr = 0xd902f
+func_addr = 0xd9010
+comment = "SRWLock"
+decompiled = false
+
+[0xd904c]
+last_change = 2026-09-09T16:15:30.859462Z
+addr = 0xd904c
+func_addr = 0xd9010
+comment = "SRWLock"
+decompiled = false
+
+[0xd9071]
+last_change = 2026-09-09T16:15:30.859468Z
+addr = 0xd9071
+func_addr = 0xd9010
+comment = "SRWLock"
+decompiled = false
+
+[0xd908e]
+last_change = 2026-09-09T16:15:30.859472Z
+addr = 0xd908e
+func_addr = 0xd9010
+comment = "SRWLock"
+decompiled = false
+
+[0xebbf0]
+last_change = 2026-09-09T16:15:30.871688Z
+addr = 0xebbf0
+func_addr = 0xeb6b0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xebc12]
+last_change = 2026-09-09T16:15:30.871709Z
+addr = 0xebc12
+func_addr = 0xeb6b0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xebf0c]
+last_change = 2026-09-09T16:15:30.871715Z
+addr = 0xebf0c
+func_addr = 0xeb6b0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xec253]
+last_change = 2026-09-09T16:15:30.875701Z
+addr = 0xec253
+func_addr = 0xebf50
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xec47b]
+last_change = 2026-09-09T16:15:30.875715Z
+addr = 0xec47b
+func_addr = 0xebf50
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xec4bb]
+last_change = 2026-09-09T16:15:30.875721Z
+addr = 0xec4bb
+func_addr = 0xebf50
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xedce0]
+last_change = 2026-09-09T16:15:30.887852Z
+addr = 0xedce0
+func_addr = 0xedbe0
+comment = "switch 70 cases"
+decompiled = false
+
+[0xedcfe]
+last_change = 2026-09-09T16:15:30.887870Z
+addr = 0xedcfe
+func_addr = 0xedbe0
+comment = "switch jump"
+decompiled = false
+
+[0xedd00]
+last_change = 2026-09-09T16:15:30.887876Z
+addr = 0xedd00
+func_addr = 0xedbe0
+comment = "jumptable 00000001800EECFE cases 0-3,38,59,69"
+decompiled = false
+
+[0xedd07]
+last_change = 2026-09-09T16:15:30.887881Z
+addr = 0xedd07
+func_addr = 0xedbe0
+comment = "jumptable 00000001800EECFE default case, cases 4-37,39-58,60-68"
+decompiled = false
+
+[0xede74]
+last_change = 2026-09-09T16:15:30.887886Z
+addr = 0xede74
+func_addr = 0xedbe0
+comment = "jump table for switch statement"
+decompiled = false
+
+[0xede7c]
+last_change = 2026-09-09T16:15:30.887892Z
+addr = 0xede7c
+func_addr = 0xedbe0
+comment = "indirect table for switch statement"
+decompiled = false
+
+[0xef3ae]
+last_change = 2026-09-09T16:15:30.900078Z
+addr = 0xef3ae
+func_addr = 0xef290
+comment = "namelen"
+decompiled = false
+
+[0xef3b3]
+last_change = 2026-09-09T16:15:30.900100Z
+addr = 0xef3b3
+func_addr = 0xef290
+comment = "name"
+decompiled = false

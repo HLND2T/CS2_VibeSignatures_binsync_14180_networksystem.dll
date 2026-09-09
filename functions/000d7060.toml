@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:15:30.814603Z
+addr = 0xd7060
+size = 0x2db
+name = "sub_1800D8060"
+
+[header]
+name = "sub_1800D8060"
+addr = 0xd7060
+
+[header.args]
